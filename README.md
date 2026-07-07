@@ -25,7 +25,7 @@ Sistem informasi Manajemen rumah kos berbasis web, dibangun dengan CodeIgniter 4
 
 1. Copy folder ke `C:\xampp\htdocs\`
 2. Buat database `db_rumah_kos` di phpMyAdmin
-3. Import `database_revisi_v1_v2.sql`
+3. Import `db_rumah_kos.sql`
 4. Edit `.env` sesuai database Anda
 5. Akses: `http://localhost/kos rumah/`
 
