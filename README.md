@@ -32,7 +32,7 @@ Sistem informasi Manajemen rumah kos berbasis web, dibangun dengan CodeIgniter 4
 ## Login Default
 
 - Admin: `admin` 
-- password: 
+- password: `123123` 
 
 ## Alur Logika Sistem
 
